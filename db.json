@@ -1,6 +1,6 @@
 {
   "posts": [
-    
+    {"id": 1, "title": "Hello", "body": "fist"}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
